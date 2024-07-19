@@ -93,6 +93,7 @@ We welcome contributions from the community! Whether it's adding new genres, imp
 
 These are the current set of progressions that `musegen` can generate:
 
+<details><summary>Expand</summary>
 ```shell
 $ musegen list-progressions
 
@@ -375,6 +376,7 @@ Soul              I-vi-ii-V (Stevie Wonder - Isn't She Lovely)                  
 Soul              i-IV-V-iv (Bill Withers - Ain't No Sunshine)                               Cmin - D# - E - D#min
 Soul              I-V-vi-iii-IV-I-IV-V (D'Angelo - Untitled (How Does It Feel))              Cmaj9 - E9 - Fmin9 - Dmin9 - D#maj9 - Cmaj9 - D#maj9 - E9
 ```
+</details>
 
 ---
 
